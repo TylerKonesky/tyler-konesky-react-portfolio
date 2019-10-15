@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    // font-family: 'Lora', sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+}
